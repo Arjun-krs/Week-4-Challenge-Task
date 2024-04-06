@@ -1,0 +1,17 @@
+@media (max-width:600px) {
+    .head-wrapper {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .main-context {
+        width: 500px;
+        text-align: center;
+    }
+    .row{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+    }
+
+}
